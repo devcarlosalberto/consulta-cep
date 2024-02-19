@@ -7,7 +7,7 @@
 
 
 ## 💻 Projeto
-Projeto feito com ReactJS que consulta CEP's a partir da entrada do usuário e retorna: estado, cidade, bairro e logradouro.
+Projeto feito com React que consulta um CEP a partir da entrada do usuário e retorna: estado, cidade, bairro e logradouro.
 <br/><br/>
 
 ## ✅ Resultado
@@ -21,18 +21,12 @@ Projeto feito com ReactJS que consulta CEP's a partir da entrada do usuário e r
 ## 🚀 Tecnologias
 Neste projeto foi utilizado as seguintes tecnologias:
 
-- React
-- Styled Components
-- Axios
+- React (axios, styled-components)
 <br/><br/>
 
 ## ▶️ Demonstração
 
 [Clique aqui para acessar o projeto hospedado na Netlify.](https://pesquisarcep.netlify.app)
-<br/><br/>
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcarlosalberto)
 <br/><br/>
 
 ## Autores
