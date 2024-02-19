@@ -14,7 +14,6 @@ Projeto feito com React que consulta um CEP a partir da entrada do usuário e re
 
 <div>
   <img src="https://i.imgur.com/QUPXFQx.png" width="100%" />
-  <img src="https://imgur.com/BSZkUPq.png" width="100%" />
 </div>
 <br/>
 
